@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17674" started-at="2022-05-06T08:06:01 IST" finished-at="2022-05-06T08:06:18 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17674" started-at="2022-05-06T08:06:01 IST" finished-at="2022-05-06T08:06:18 IST">
+      <class name="com.test.RemoveItemTest">
+        <test-method status="PASS" signature="setUpEnv()[pri:0, instance:com.test.RemoveItemTest@401e7803]" name="setUpEnv" is-config="true" duration-ms="14" started-at="2022-05-06T08:06:01 IST" finished-at="2022-05-06T08:06:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpEnv -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.RemoveItemTest@401e7803]" name="setUp" is-config="true" duration-ms="6935" started-at="2022-05-06T08:06:01 IST" finished-at="2022-05-06T08:06:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Removeitem()[pri:0, instance:com.test.RemoveItemTest@401e7803]" name="Removeitem" duration-ms="9792" started-at="2022-05-06T08:06:08 IST" finished-at="2022-05-06T08:06:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Removeitem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.RemoveItemTest@401e7803]" name="tearDown" is-config="true" duration-ms="873" started-at="2022-05-06T08:06:18 IST" finished-at="2022-05-06T08:06:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.RemoveItemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
